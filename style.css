@@ -1,9 +1,9 @@
+body {
+  text-align: center;
+} 
 a {
   color: white;
-  text-align: center;
 }
-
 a:visited {
   color: white;
-  text-align: center;
 }
