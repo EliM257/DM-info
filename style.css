@@ -4,8 +4,11 @@ body {
 } 
 a {
   color: white;
-  font-size: 55px;
+  font-size: 50px;
   font-family: 'Roboto Slab', Courier, monospace
+}
+a:hover {
+  font-size: 55px;
 }
 #leafCanvas {
     position: fixed;
