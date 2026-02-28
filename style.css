@@ -3,10 +3,10 @@ body {
   font-family: 'Roboto Slab', Courier, monospace
 } 
 a {
-  color: white;
   font-size: 50px;
-  font-family: 'Roboto Slab', Courier, monospace
+  transition: 0.3s;
 }
+
 a:hover {
   font-size: 55px;
 }
