@@ -3,7 +3,7 @@ body {
 } 
 a {
   color: white;
-  font-size: 75px;
+  font-size: 64px;
 }
 #leafCanvas {
     position: fixed;
